@@ -92,7 +92,7 @@ assegnale il valore "Carlo".
 
 */
 
-let name = "Carlo"
+let name = "Marco"
 console.log(name)
 
 
