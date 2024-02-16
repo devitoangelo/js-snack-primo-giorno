@@ -27,6 +27,7 @@ const PI = "3.14";
 console.log(PI);
 
 
+
 //Esercizio 2/B
 
 //Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
@@ -41,8 +42,41 @@ Non possiamo usare const con variante chiamata PI perchè è stata gia usata in 
 */
 
 
+/* 
 const PI = "3.1416."
 console.log(PI)
+*/
+
+
+
+
+
+// Esercizio sercizio 2/C
+
+/*
+-Dichiara una variabile chiamata radius e assegnale il valore 8.
+
+-Moltiplica radius x 2 e x PI e assegna il valore a una variabile di nome circle.
+
+-Stampa il valore della variabile circle in console.
+*/
+
+/*
+- let
+- number * 2 * PI
+- console
+*/
+
+let radius = "8"
+console.log(radius * 2 * PI)
+let circle ="50.24"
+console.log(50.24)
+
+
+
+
+
+
 
 
 
