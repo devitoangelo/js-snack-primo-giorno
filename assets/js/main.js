@@ -8,7 +8,7 @@
 - consol
 */
 
-const number = "100";   
+const number = 100;   
 console.log(number);
 
 
@@ -23,7 +23,7 @@ console.log(number);
 - console
 */
 
-const PI = "3.14";
+const PI = 3.14;
 console.log(PI);
 
 
@@ -43,7 +43,7 @@ Non possiamo usare const con variante chiamata PI perchè è stata gia usata in 
 
 
 /* 
-const PI = "3.1416."
+const PI = 3.1416.
 console.log(PI)
 */
 
@@ -67,10 +67,10 @@ console.log(PI)
 - console
 */
 
-let radius = "8"
-console.log(radius * 2 * PI)
-let circle ="50.24"
-console.log(50.24)
+let radius = 8;
+console.log(radius * 2 * PI);
+let circle = 50.24;
+console.log(circle);
 
 
 
@@ -92,8 +92,17 @@ assegnale il valore "Carlo".
 
 */
 
-let name = "Marco"
-console.log(name)
+
+
+let name = "Carlo";
+ name ="Marco";
+console.log(name);
+
+
+
+
+
+
 
 
 
