@@ -38,7 +38,7 @@ console.log(PI);
 - number
 -console
 
-Non possiamo usare const con variante chiamata PI perchè è stata gia usata in precedenza ( non possiamo usare const perchè è una variabile che non si può riasseganre come per esempio " let e var" se proviamo a cambiare o a riscrivere il suo valore avremmo un errore in console)
+Non possiamo usare const con variante chiamata PI perchè è stata gia usata in precedenza ( non possiamo usare const perchè è una variabile che non si può riasseganre come per esempio " let e var che si possono riassegnare" se proviamo a cambiare o a riscrivere il suo valore avremmo un errore in console)
 */
 
 
@@ -71,6 +71,32 @@ let radius = "8"
 console.log(radius * 2 * PI)
 let circle ="50.24"
 console.log(50.24)
+
+
+
+// Esercizio 3
+/*
+- Dichiara una variabile chiamata name e
+assegnale il valore "Carlo".
+
+- Successivamente, modifica il valore della variabile in "Marco".
+
+- Stampa il nuovo valore in console.
+*/
+
+
+/*
+- let
+- string
+- consol
+
+*/
+
+let name = "Carlo"
+console.log(name)
+
+
+
 
 
 
